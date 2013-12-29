@@ -20,3 +20,5 @@ http://thisshouldbethetitle.blogspot.com.es/2013/04/notifying-daily-appsetore-re
 
 Further details of availability, report's content,... etc are detailed in the official document:
 http://www.apple.com/itunesnews/docs/AppStoreReportingInstructions.pdf
+
+MIT License 2013 - Rafael Redondo Tejedor
